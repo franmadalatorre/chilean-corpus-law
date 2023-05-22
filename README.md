@@ -1,2 +1,2 @@
-# chilean-corpus-law
- Repository for different law corpus from Chile
+# Corpus for chilean law
+ Repository for different corpus extracted from chilean law (constitution, laws, specific codes)
